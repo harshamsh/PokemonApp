@@ -1,10 +1,10 @@
-#Our application consists of several Haskell files such as 
-#• Main.hs
-#• Fetch.hs
-#• Types.hs
-#• Database.hs
-#• Paarse.hs
-#The way our application runs is our main.hs provides a terminal to the user where the 
+Our application consists of several Haskell files such as 
+• Main.hs
+• Fetch.hs
+• Types.hs
+• Database.hs
+• Paarse.hs
+The way our application runs is our main.hs provides a terminal to the user where the 
 user can choose what to do with the application and the application.vairous hs files are 
 been imported to main for this purpose,for example if a user decides to downlaod the 
 data from the internet applciation will be usign fetch.hs to downlaod the data and then 
