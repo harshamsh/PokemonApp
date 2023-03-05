@@ -4,7 +4,7 @@
 • Types.hs
 • Database.hs
 • Paarse.hs
-# # Description
+## Description
 The way our application runs is our main.hs provides a terminal to the user where the 
 user can choose what to do with the application and the application.vairous hs files are 
 been imported to main for this purpose,for example if a user decides to downlaod the 
