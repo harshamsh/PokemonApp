@@ -1,4 +1,4 @@
-# Our application consists of several Haskell files such as 
+# Application Files
 • Main.hs
 • Fetch.hs
 • Types.hs
